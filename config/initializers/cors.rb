@@ -1,12 +1,6 @@
 Rails.application.config.middleware.insert_before 0, Rack::Cors, debug: true, logger: (-> { Rails.logger }) do
   allow do
-    origins '*'
-
-    resource '/cors',
-             :headers => :any,
-             :methods => [:post],
-             :max_age => 0
-
+    origins 'staging.ebwiki.org'
     resource '*',
              headers: :any,
              methods: %i[get post put patch delete options head],
