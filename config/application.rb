@@ -22,7 +22,7 @@ module EBWiki
         origins 'ebwiki.org'  # Replace with the origin you want to allow
         resource '*',
                  headers: :any,
-                 methods: [:get, :post, :put, :patch, :delete, :options, :head],
+                 methods: %i[get post put patch delete options head],
                  expose: ['Access-Control-Allow-Origin'],
                  max_age: 600
       end
