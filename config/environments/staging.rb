@@ -93,5 +93,16 @@ Rails.application.configure do
   Bullet.rails_logger = true
   Bullet.console = true
 
-  config.middleware.use Rack::HostRedirect, 'ebwiki-staging.herokuapp.com' => 'staging.ebwiki.org'
+  config.middleware.insert_before 0, Rack::Cors do
+    allow do
+      origins 'https://staging.ebwiki.org'  # Replace with your specific origin
+
+      resource '*',
+               headers: :any,
+               methods: [:get, :post, :put, :patch, :delete, :options, :head],
+               expose: ['Authorization'],  # Specify headers to expose
+               max_age: 600,
+               credentials: true  # Allow credentials like cookies or HTTP authentication
+    end
+  end
 end
