@@ -1,0 +1,9 @@
+---
+test_follows_post_/cases/:slug/follows_will_make_the_user_a_follower_of_a_case_will_redirect_to_the_case_page:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+test_follows_delete_/cases/:slug/follows_will_unfollow_a_case_for_a_user_will_redirect_to_the_case_page:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'

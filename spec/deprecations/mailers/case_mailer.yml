@@ -1,0 +1,13 @@
+---
+test_case_mailer_send_followers_email_includes_user.name:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+test_case_mailer_send_followers_email_renders_the_sender_email:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+test_case_mailer_send_followers_email_renders_the_receiver_email:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+test_case_mailer_send_followers_email_renders_the_subject:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'

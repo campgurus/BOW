@@ -158,6 +158,8 @@ GEM
       activerecord
       database_cleaner (~> 1.8.0)
     date (3.3.3)
+    deprecation_toolkit (2.0.4)
+      activesupport (>= 5.2)
     derailed_benchmarks (1.8.1)
       benchmark-ips (~> 2)
       get_process_mem (~> 0)
@@ -651,6 +653,7 @@ DEPENDENCIES
   connection_pool
   cucumber-rails (~> 1.6)
   database_cleaner-active_record (~> 1.8.0)
+  deprecation_toolkit
   derailed_benchmarks (~> 1.8)
   devise (= 4.7.3)
   dotenv-rails (~> 2.7)
@@ -725,4 +728,4 @@ RUBY VERSION
    ruby 2.7.8p225
 
 BUNDLED WITH
-   2.1.4
+   2.4.22

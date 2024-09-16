@@ -13,6 +13,7 @@ require 'database_cleaner'
 require 'webmock/rspec'
 require 'paper_trail/frameworks/rspec'
 require 'null_fields_counter'
+require "deprecation_toolkit/rspec"
 include Warden::Test::Helpers
 Warden.test_mode!
 # Requires supporting ruby files with custom matchers and macros, etc,

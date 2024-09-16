@@ -1,0 +1,32 @@
+---
+test_cases_get_/cases/:slug_will_get_case_page_will_return_the_case_page:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+test_cases_get_/cases/:slug/followers_will_get_followers_page_will_return_a_list_of_followers:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+test_cases_get_/cases/:slug/followers_will_get_followers_page_will_return_status_code_200:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'

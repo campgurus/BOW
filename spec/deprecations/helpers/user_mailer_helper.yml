@@ -1,0 +1,7 @@
+---
+test_user_mailer_helper_create_welcome_email_message_generates_the_message_for_a_subscribed_user_that_follows_1_case:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+test_user_mailer_helper_create_welcome_email_message_generates_the_message_for_an_unsubscribed_user_that_follows_1_case:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'

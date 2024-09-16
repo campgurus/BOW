@@ -1,0 +1,6 @@
+---
+test_user_visits_home_page_and_sees_the_preview_text_on_rollover:
+- 'DEPRECATION WARNING: ''include Pundit'' is deprecated. Please use ''include Pundit::Authorization''
+  instead.
+
+  '

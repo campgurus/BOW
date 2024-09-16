@@ -1,0 +1,15 @@
+---
+test_follower_count_gives_the_correct_followers_count:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+test_scopes_based_on_follows_returns_cases_sorted_by_number_of_followers:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'

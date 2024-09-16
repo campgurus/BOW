@@ -1,0 +1,4 @@
+---
+test_follow_scopes_returns_follows_occurring_by_a_given_date:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'

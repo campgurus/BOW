@@ -1,0 +1,4 @@
+---
+test_user_mailer_welcome_email_renders_the_proper_message_when_user_has_followed_1_or_more_cases:
+- 'DEPRECATION WARNING: Setting custom parent classes is deprecated and will be removed
+  in future versions.'
